@@ -1,10 +1,3 @@
-/*	LINKS 
-PARTE 1 - https://www.youtube.com/watch?v=zN-NVClvPZI&t=33s
-PARTE 2 - https://www.youtube.com/watch?v=KzdSA72ZXaw&t=237s
-PARTE 3 - https://www.youtube.com/watch?v=3Fy_NqX3o1Q
-PARTE 4 - https://www.youtube.com/watch?v=sCCl1qqtnow
-PARTE 5 - https://www.youtube.com/watch?v=7vUEloJWdfI
-*/
 var fase=1;
 var espaco=0;
 var errou=0;
